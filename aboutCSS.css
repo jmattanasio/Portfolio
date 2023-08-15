@@ -1,0 +1,43 @@
+#big-title-about {
+    text-align: center;
+    font-size: 108px;
+    font-weight: bold;
+}
+
+
+nav {
+    background-color: black;
+}
+
+.inline-nav {
+    font-size: 24px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: right;
+}
+
+.inline-nav > a {
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 4px;
+    color: #fe5953;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.inline-nav > a:hover {
+    background-color: #fe5953;
+    color: black;
+}
+
+.personal-table {
+    margin-left: 15%;
+}
+
+#my-name {
+    padding-left: 150px;
+    font-size: 24px;
+}
